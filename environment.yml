@@ -1,0 +1,16 @@
+name: python 3.10
+dependencies:
+  - python=3.10
+  - jupyter
+  - notebook
+  - jupyterlab
+  - matplotlib
+  - scipy
+  - numpy
+  - pandas
+  - altair
+  - tqdm
+  - vl-convert-python
+  - scikit-learn
+  - h5py
+  - joblib
